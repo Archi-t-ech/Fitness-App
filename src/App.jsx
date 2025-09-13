@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className="bg">
         <a href="https://vite.dev" target="_blank">
           <img src={cloudLogo} className="logo" alt="Fitness-App" />
         </a>

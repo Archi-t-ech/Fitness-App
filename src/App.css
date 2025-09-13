@@ -3,8 +3,16 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #61dafbaa;
 }
 
+.cool {
+  background-color: #620d90aa;
+}
+
+.bg {
+  background-color: rgb(127, 7, 187);
+}
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -38,5 +46,5 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #1d1919;
 }
